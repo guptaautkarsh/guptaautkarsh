@@ -20,12 +20,16 @@ I’m passionate about **backend development** and **Data Structure & Algorithms
 - JavaScript (Frontend)
 - Java
 
+
 **⚙️ Backend & Frameworks**  
 - Flask (Python micro-framework)    
 
+
 **🗄️ Databases**  
-- MySQL (Schema design, Indexing, Optimization)  
+- MySQL (Schema design, Indexing, Optimization)
+- SQLite (Lightweight database, used mainly for development & prototyping)
 - MongoDB (Beginner)  
+
 
 **🧰 Tools & Platforms**  
 - Postman (API testing)  
@@ -34,12 +38,14 @@ I’m passionate about **backend development** and **Data Structure & Algorithms
 - Linux (Server setup & scripting)
 - VS Code (Primary code editor)  
 
-**🔑 Core Concepts**  
-- RESTful API Design  
-- JWT Authentication & Security Practices  
-- MVC Architecture  
-- Schema Validation & Input Sanitization  
-- Deployment & Scaling Basics  
+
+**🔑 Core Concepts**   
+- RESTful API Design & Development  
+- Authentication & Authorization (JWT, Session-based)
+- Frontend Fundamentals (HTML, CSS, JavaScript, React Basics)
+- Data Structures & Algorithms (Problem Solving)  
+- Server Deployment & Reverse Proxy (Linux, Nginx)  
+- Version Control & Collaboration (Git, GitHub)  
 
 ---
 
