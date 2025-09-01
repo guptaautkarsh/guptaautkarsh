@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Utkarsh Gupta  
 
-<!--
-**guptaautkarsh/guptaautkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Backend Developer | 🎯 Problem Solver  
+📚 Interested in Data Structures & Algorithms, SQL, and Flask-based Web Development  
+🎓 B.Tech CSE student @ IIIT Sonepat  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Languages:** Python, C++  
+- **Backend:** Flask, SQL  
+- **Frontend:** React, HTML, CSS  
+- **Other Interests:** Linux, Machine Learning, IoT  
+
+---
+
+### 📊 GitHub Stats
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaautkarsh&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](#)  
