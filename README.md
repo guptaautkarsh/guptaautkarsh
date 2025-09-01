@@ -1,24 +1,73 @@
-# 👋 Hi, I’m Utkarsh Gupta  
+# Hi, I'm Utkarsh Gupta 👋
 
-💻 Passionate Backend Developer | 🎯 Problem Solver  
-📚 Interested in Data Structures & Algorithms, SQL, and Flask-based Web Development  
-🎓 B.Tech CSE student @ IIIT Sonepat  
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pnMHJoam1iY2Y1bW90Y3dncG0yeHNmeWdtNWRxc2R6M2hnMDdndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width="230">
 
----
+CSE student at [**`IIIT Sonepat`**](https://www.iiitsonepat.ac.in/) </br>
+Interested in `Backend Development`, `Data Structure`, `SQL`, and `Linux`.</br>
 
-### 🚀 Skills
-- **Languages:** Python, C++  
-- **Backend:** Flask, SQL  
-- **Frontend:** React, HTML, CSS  
-- **Other Interests:** Linux, Machine Learning, IoT  
+Welcome to my GitHub profile!  
+I'm a *B.Tech student* in *Computer Science* at the *Indian Institute of Information Technology, Sonepat*.  
+I’m passionate about **backend development** and **Data Structure & Algorithms**
 
 ---
 
-### 📊 GitHub Stats
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaautkarsh&show_icons=true&theme=radical)
+## 🛠️ Skills & Technologies  
+
+**💻 Programming Languages**  
+- C++ (Problem Solving, DSA)  
+- Python (Backend, Flask)  
+- SQL (Database Queries & Optimization)  
+- JavaScript (Frontend)
+- Java
+
+**⚙️ Backend & Frameworks**  
+- Flask (Python micro-framework)    
+
+**🗄️ Databases**  
+- MySQL (Schema design, Indexing, Optimization)  
+- MongoDB (Beginner)  
+
+**🧰 Tools & Platforms**  
+- Postman (API testing)  
+- Git & GitHub (Version Control)  
+- Nginx (Basics of reverse proxy & deployment)  
+- Linux (Server setup & scripting)  
+
+**🔑 Core Concepts**  
+- RESTful API Design  
+- JWT Authentication & Security Practices  
+- MVC Architecture  
+- Schema Validation & Input Sanitization  
+- Deployment & Scaling Basics  
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](#)  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaautkarsh&show_icons=true&theme=merko&hide_border=true" alt="Utkarsh's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaautkarsh&theme=green_nur&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="www.linkedin.com/in/utkarshgupta31" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:utkarshgupta3125@gmail.com" target="_blank">
+        <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="35" height="35"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+✨ Backend Developer | Problem Solver |  | Lifelong Explorer
