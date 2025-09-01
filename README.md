@@ -31,7 +31,8 @@ I’m passionate about **backend development** and **Data Structure & Algorithms
 - Postman (API testing)  
 - Git & GitHub (Version Control)  
 - Nginx (Basics of reverse proxy & deployment)  
-- Linux (Server setup & scripting)  
+- Linux (Server setup & scripting)
+- VS Code (Primary code editor)  
 
 **🔑 Core Concepts**  
 - RESTful API Design  
@@ -70,4 +71,4 @@ I’m passionate about **backend development** and **Data Structure & Algorithms
 
 ---
 
-✨ Backend Developer | Problem Solver |  | Lifelong Explorer
+✨ Backend Developer | Problem Solver | Lifelong Explorer
